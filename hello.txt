@@ -6,5 +6,6 @@ hello CHUAV!
 hello CHUAV!
 hello CHUAV!
 hello CHUAV!
+<<<<<<< HEAD
 hello CHUAV! master
-hello CHUAV!
+hello CHUAV! hot-fix
